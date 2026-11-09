@@ -863,6 +863,7 @@ Inclusion criteria are less strict for this fast-moving field.
 - [bosun](https://github.com/yetidevworks/bosun) - Agent session manager built on tmux.
 - [Keen Code](https://github.com/mochow13/keen-code) - Context-aware coding agent written in Go.
 - [AgentBridge](https://github.com/raysonmeng/agent-bridge) - Local bridge for bidirectional communication between Claude Code and Codex.
+- [killi](https://github.com/timwuhaotian/killi) - A tiny Rust AI coding agent (7 MB binary, 18 MB RAM, prompt-cache friendly).
 
 ### LLM Interaction
 
